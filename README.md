@@ -4,9 +4,9 @@ By Michael W. Johnson
 mjohnson34543@gmail.com
 
 # General Info
-Execute Install:     npm install
-Execute SimpleChain: node simpleChain.js
-Print blockchain:    node printLevelDB.js
+1. Execute Install:     npm install
+2. Execute SimpleChain: node simpleChain.js
+3. Print blockchain:    node printLevelDB.js
 
 Project currently injects errors in block 5 and 6.
 Comment that code in simpleChain.js to create valid chain.
